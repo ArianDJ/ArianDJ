@@ -1,5 +1,5 @@
 *https://invite.duolingo.com/BDHTZTB5CWWKTO55OZ7OCCNTCM*
-![Header](./pfp.png)
+## Cue the cringe lazily automatically generated README
 # 💫 About Me:
 🔭 I’m currently working on a project called FontChanger<br>🌱 I’m currently learning Ruby, C++ and C#<br>💬 Ask me about code debugging<br>
 🌐 Check out my site: https://chudnovsky.neocities.org/
@@ -18,10 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArianDJ&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ArianDJ&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- (not so proudly) created with GPRM ( https://gprm.itsvg.in ) -->
